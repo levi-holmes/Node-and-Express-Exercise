@@ -1,0 +1,17 @@
+{
+  "full-name": "Levi Holmes",
+  "description": "Fantabulistic",
+  "car": [
+    {
+      "name": "honda",
+      "color": "silver",
+      "kind": "suv"
+    }
+  ],
+  "favorites": {
+    "color": "black",
+    "number": 2,
+    "animal": "tigers",
+    "video": "https://www.youtube.com/watch?v=V-_O7nl0Ii0"
+  }
+}
