@@ -31,4 +31,4 @@ server.get('/*', function (request, response) {
 	console.log(request.query.character)
 })
 
-server.listen(8675)
+server.listen(process.env.PORT || 5000)
